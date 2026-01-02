@@ -59,3 +59,10 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [OnSpace]() and click on Share -> Publish.
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sudhigirijaa/optimsoln.git
+git push -u origin main
+
+
